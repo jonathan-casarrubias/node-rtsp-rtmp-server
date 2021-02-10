@@ -5,7 +5,7 @@
   "author": "Nao Iizuka <iizuka@kyu-mu.net>",
   "main": "stream_server.js",
   "dependencies": {
-    "ejs"    : "0.8.x",
+    "ejs"    : "3.1.6",
     "sequent": ">= 0.1.2"
   },
   "engines": {
